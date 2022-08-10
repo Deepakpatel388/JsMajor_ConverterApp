@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(52, 119, 131);
+}
+#main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#option{
+    margin-top: 10%;
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    padding: 0px;
+    background-color: rgb(26, 182, 169);
+    border-radius: 15px;
+}
+select{
+    width: 140px;
+    height: 20px;
+    margin: 20px 8px;
+}
+#input{
+    display: flex;
+    justify-content: center;
+    margin: 20px 1px;
+    
+}
+input{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    border: none;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#button{
+ display: flex;
+ justify-content: center;
+ margin-top: 10px;   
+}
+button{
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(26, 167, 101);
+    color: white;
+    border: none;
+    border-radius: 15px;
+}
+h2{
+    display: inline;
+}
+#FromTo{
+    display: flex;
+    justify-content: space-around;
+}
+h2{
+    color: white;
+}
+#span1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#span{
+    background-color: antiquewhite;
+}
+
+#base1{
+    margin-left: 25px;
+}
